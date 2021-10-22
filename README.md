@@ -31,7 +31,7 @@
 
 ## :dart: About ##
 
-Project developed in the 7th edition of Next Level Week of <a href='https://rocketseat.com.br'> Rocketseat </a>, a free event that
+Project developed in the 7th edition of Next Level Week of <a href='https://rocketseat.com.br'> Rocketseat</a>, a free event that
 aims to take you to the next level :rocket:. The trail I chose was the intermediate one, Impulse, ideal for someone who has been programming for some time.
 
 ## :computer: Technologies used ##
